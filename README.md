@@ -1,2 +1,2 @@
-# VINICIUS GABRIEL
+# VINÍCIUS GABRIEL
  Primeiro repositório versionado
